@@ -1,4 +1,4 @@
-public abstract class Animal extends IAnimal {
+public abstract class Animal implements IAnimal {
     String name;
     int age;
 
